@@ -1,3 +1,9 @@
+> **项目已迁移（2026-10-13）**
+>
+> 客户端源码、每日放送数据、安装包和问题反馈已统一迁至 **[MASUKA2018/Bangumi_ClassTimeTable](https://github.com/MASUKA2018/Bangumi_ClassTimeTable)**。后续开发与下载请使用新主仓库。
+>
+> 本仓库归档为只读历史记录，不再接收更新或贡献；未删除原有源码与提交。下方为归档前的说明，仅供历史参考，最新说明以新主仓库为准。原作者署名和 MIT 许可证继续保留。
+
 # 番组课表 · Bangumi ClassTimetable
 
 > **来源与二次开发声明**
